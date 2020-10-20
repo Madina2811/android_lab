@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Lab Project</string>
+
+    <string name="sample_res">res</string>
+</resources>
